@@ -48,6 +48,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/govindtiwari48/govindtiwari48/output/snake.svg" alt="Snake animation" />
 
 ###
